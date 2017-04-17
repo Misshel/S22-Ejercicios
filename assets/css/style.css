@@ -3,22 +3,34 @@
   padding: 0;
 }
 
+section, div{
+  border: 1px solid;
+  margin-left: 100px;
+  background-color: #907373;
+}
+
+div{
+  width: 100px;
+  height: 100px;
+  margin: 20px 100px;
+}
+
 section{
-  padding: 50px 20%;
+  height: 150px;
+  width: 500px;
 }
 
-
-div.word{
-  font-family: 'Montserrat', sans-serif;
+div.section{
   display: inline-block;
-  height: 50px;
-  width: 170px;
-  background-color: yellow;
-  padding: 10px;
-  margin: auto 15px;
+  margin: 27px 30px;
 }
 
-div.centro{
-  background-color: #eb0fb5;
-  margin: 15px auto;
+div.lineal{
+  display: inline-block;
+  margin: 25px;
+  margin-left: 100px;
+}
+
+#word5{
+  margin-top: 0px;
 }
