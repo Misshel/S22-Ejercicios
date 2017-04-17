@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+div.word{
+  font-family: 'Montserrat', sans-serif;
+  display: block;
+  height: 50px;
+  width: 100%;
+  background-color: yellow;
+  padding: 10px;
+}
+
+div.centro{
+  border: 1px solid;
+  background-color: #eb0fb5;
+}
