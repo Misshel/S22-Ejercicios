@@ -10,7 +10,7 @@ section{
 
 div.word{
   font-family: 'Montserrat', sans-serif;
-  display: inline;
+  display: inline-block;
   height: 50px;
   width: 170px;
   background-color: yellow;
